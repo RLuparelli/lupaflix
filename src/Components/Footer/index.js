@@ -4,9 +4,9 @@ import { FooterBase } from './styles';
 function Footer() {
   return (
     <FooterBase>
-      <a>
+      <>
         devby.Rodrigo Luparelli
-      </a>
+      </>
       <p>
         Orgulhosamente criado durante a
         {' '}
